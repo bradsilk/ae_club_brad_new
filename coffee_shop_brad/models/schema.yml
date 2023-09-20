@@ -25,6 +25,6 @@ sources:
     project: coffee_shop
     freshness:
       error_after:
-        count: 12
+        count: 11
         period: hour
     loaded_at_field: created_at
